@@ -67,6 +67,6 @@ Feel free to reach out or explore my work:
 
 ---
 
-### ✨ Motto  
+### ✨ My views
 **Never stop learning.  
 Never stop improving.**
