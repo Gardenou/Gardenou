@@ -28,6 +28,7 @@ A React-based interactive diagram that visualizes the full curriculum of the Com
 ### 🕶️ ACUDAM AR Project – Augmented Reality for Social Impact  
 An augmented-reality solution designed for ACUDAM, a non-profit supporting people with disabilities.  
 The project allows users to scan objects or markers and visualize interactive 3D models.
+
 👉 https://github.com/Gardenou/acudam_cortines
 
 ---
