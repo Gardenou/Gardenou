@@ -17,7 +17,7 @@ Currently:
 A bot capable of answering questions from PDF documents and group chats, integrating LLMs and retrieval techniques.  
 👉 https://github.com/Gardenou/uoc-respostes
 
-### 🎧 Deep Learning Audio Classifier – Final Degree Project  
+### 🎧 Deep Learning Audio Classifier – Bachelor's Thesis for Computer Engineering Degree
 End-to-end audio classification system built from scratch using PyTorch, spectrograms, and convolutional models.  
 👉 https://github.com/Gardenou/TFG_IA_Model
 
