@@ -20,6 +20,7 @@ A bot capable of answering questions from PDF documents and group chats, integra
 ### 🎧 Deep Learning Audio Classifier – Bachelor's Thesis for Computer Engineering Degree
 End-to-end audio classification system built from scratch using PyTorch, spectrograms, and convolutional models.  
 👉 https://github.com/Gardenou/TFG_IA_Model
+👉 You can find the report here: platreball_eng_formatRESEARCH.pdf
 
 ### 🌐 UOC Subjects Interactive Map  
 A React-based interactive diagram that visualizes the full curriculum of the Computer Engineering degree at UOC with pop-ups and metadata.  
